@@ -130,4 +130,4 @@ SH.ADCx_IN3.ConfNb=1
 VP_SYS_VS_Systick.Mode=SysTick
 VP_SYS_VS_Systick.Signal=SYS_VS_Systick
 board=custom
-isbadioc=false
+isbadioc=false //Comment bahasa salah
