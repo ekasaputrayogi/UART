@@ -1,1 +1,1 @@
-Pin 1 Sebagai Input
+Pin 1 sebagai ouput
