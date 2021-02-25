@@ -1,1 +1,2 @@
 Pin 1 sebagai ouput
+Pin 2 OK
